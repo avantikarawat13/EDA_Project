@@ -10,20 +10,9 @@ The objective is to understand the content library of Amazon Prime Video and ide
 
 ## Dataset Information
 
-The dataset contains information about movies and TV shows available on Amazon Prime Video, including:
-
-* Show ID
-* Title
-* Type (Movie/TV Show)
-* Director
-* Cast
-* Country
-* Date Added
-* Release Year
-* Rating
-* Duration
-* Genre (Listed In)
-* Description
+The dataset contains information about movies and TV shows available on Amazon Prime Video, including two csv files:
+titles.csv
+credits.csv
 
 ---
 
